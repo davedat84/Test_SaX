@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86f9887d-a34a-4769-a443-cd322a56515d" name="Changes" comment="" />
+    <list default="true" id="86f9887d-a34a-4769-a443-cd322a56515d" name="Changes" comment="them">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,14 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,6 +56,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\callm\OneDrive\Desktop\TestAsgm" />
@@ -112,10 +125,62 @@
       <workItem from="1712563700032" duration="1422000" />
       <workItem from="1712593386617" duration="2740000" />
       <workItem from="1712628019504" duration="913000" />
+      <workItem from="1712629027743" duration="2398000" />
     </task>
+    <task id="LOCAL-00001" summary="them">
+      <created>1712630680563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712630680563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="them">
+      <created>1712630781141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712630781141</updated>
+    </task>
+    <task id="LOCAL-00003" summary="them">
+      <created>1712631042148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712631042148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="them">
+      <created>1712631120534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712631120534</updated>
+    </task>
+    <task id="LOCAL-00005" summary="them">
+      <created>1712631200778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712631200779</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="them" />
+    <option name="LAST_COMMIT_MESSAGE" value="them" />
   </component>
 </project>
