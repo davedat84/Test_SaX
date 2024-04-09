@@ -1,5 +1,0 @@
-server: 'localhost'
-password: 'sa123'
-databaseName: 'sax'
-port: '1433'
-username: 'sa'
